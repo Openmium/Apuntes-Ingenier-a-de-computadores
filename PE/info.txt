@@ -1,2 +1,4 @@
-La parte de probabilidad y variables aleatorias está muy floja aquí, pero te recomiendo que le eches un vistazo al resumen de los temas 4 y 5 de intervalos de confianza y contrastes así como a los ejercicios
-los cuales si tienes la hoja de ejercicios posiblemente de ayuden a ver como se hacen paso a paso y sobre que va cada uno.
+⚠️ Nota personal
+La parte de probabilidad y variables aleatorias está bastante floja por aquí, pero te recomiendo echarle un buen vistazo al resumen de los temas 4 y 5 (intervalos de confianza y contrastes), así como a los ejercicios resueltos.
+
+Si tienes la hoja de ejercicios original a mano, probablemente te ayude a seguir el paso a paso.
