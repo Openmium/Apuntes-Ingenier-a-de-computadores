@@ -19,7 +19,7 @@ Aunque GitHub no sea el sitio más típico para esto, me ha parecido una buena f
 ## 🗂 Organización
 
 El contenido está dividido por asignaturas. Dentro de cada una encontrarás un archivo `info.txt` donde comento brevemente sobre la asignatura y los apuntes. A veces incluyo consejos para estudiar, enlaces o referencias útiles.  
-Cada asignatura suele tener carpetas como:
+Cada asignatura suele tener por nombre:
 
 - `resumenes/`
 - `ejercicios/`
