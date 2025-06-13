@@ -39,7 +39,7 @@ Haz tus propios apuntes, de verdad: es lo mejor que puedes hacer. Y sobre todo, 
 
 ---
 
-## 🤝 Agradecimientos y contacto
+## 🤝 Agradecimientos
 
 Si estos apuntes te sirven para salvar un parcial o aclarar algún concepto, ya ha merecido la pena.  
 Y si tú haces unos apuntes más bonitos, ilustrativos o mejor explicados (que en algunas asignaturas no es muy difícil, la verdad —no soy ningún artista y a veces yo mismo me lío con ciertos temas), no dudes en mejorarlos y compartirlos 🙂
