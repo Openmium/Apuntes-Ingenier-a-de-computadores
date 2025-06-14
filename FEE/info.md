@@ -1,4 +1,4 @@
-# 💰 Fundamentos de Contabilidad
+# 💰 Fundamentos de Economía y Empresa
 
 ## 📌 Consejo sobre esta asignatura
 
