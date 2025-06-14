@@ -1,5 +1,0 @@
-Viniendo de C de va a costar esta asignatura asique ponte al dia si no quieres volver a ver el año que viene, si te pones a hacer ejercicios, la teoria no es nada dificil y más ahora que a partir de este año (2025)
-están distinguiendo entre computadores y el resto (el resto en fundamentos de compu da java), gracias a eso no nos hacen a nosotros mancillar una pila con recursividad :) arboles será quizá lo que más te cueste de aquí
-el sistema de como se corrigen las practicas y sus respectivos examenes es un poco duro pero teniendo cuidado con ello (y haciendolas que no puedes aprobar solo con los examenes teoricos) podrás salir de esta relativamente facil.
-
-De esta asignatura no te tengo nada de teoria pero te regalo los examenes que tuve que hacer con sus soluciones y hasta el de practicas de los temas 4 y 5 como lo solucioné yo.
