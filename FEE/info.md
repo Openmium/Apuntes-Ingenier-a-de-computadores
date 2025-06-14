@@ -1,9 +1,18 @@
-📌 Consejo sobre esta asignatura
-Lo más recomendable aquí es afianzar bien los conceptos clave, sobre todo pensando en el tipo test del examen, que al menos durante los últimos dos años (contando desde 2025) ha contado 4 puntos.
-En cuanto a los apuntes, te recomiendo echar un vistazo al tema de marketing de tu profesor, ya que es bastante probable que entre en el test y aquí está muy flojo.
-Por lo demás, el material está bastante bien resumido y no deberías tener problemas en entenderlo. Eso sí, es una asignatura con muchos conceptos, así que conviene repasarla con calma.
+# 💰 Fundamentos de Contabilidad
 
-Te recomiendo encarecidamente que mires el siguiente resumen de asientos contables:
+## 📌 Consejo sobre esta asignatura
+
+Lo más recomendable aquí es **afianzar bien los conceptos clave**, sobre todo pensando en el **tipo test del examen**, que al menos durante los últimos dos años (contando desde 2025) ha supuesto **4 puntos**.
+
+En cuanto a los apuntes:
+
+- Te recomiendo **mirar bien el tema de marketing de tu profesor**, ya que es bastante probable que entre en el test, y aquí está muy flojo.
+- Por lo demás, el material está bastante bien resumido y no deberías tener problemas en entenderlo.
+- Eso sí, es una asignatura con muchos conceptos, así que conviene **repasarla con calma**.
+
+---
+
+## 🧾 Resumen de asientos contables
 
 OPERACIÓN                                                       DEBE                                                             HABER                                                           COMENTARIOS / VARIACIONES
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
