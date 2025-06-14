@@ -1,5 +1,5 @@
 # 🔐 Seguridad de la Información
-##🚶‍♂️ Paseo de asignatura
+## 🚶‍♂️ Paseo de asignatura
 
 Si sigue el modelo de tres exámenes durante el curso y un examen final para recuperar suspensos, la dificultad de esta asignatura es mínima.
 
